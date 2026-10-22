@@ -1,2 +1,8 @@
 # devops-git-practice
-Git and GitHub practice for DevOps
+## DevOps Practice
+
+This repository is used to practice:
+- Git branches
+- Commits
+- Pull Requests
+- GitHub Actions
